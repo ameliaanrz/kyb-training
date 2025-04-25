@@ -1,0 +1,37 @@
+{
+  "name": "kyb-training-center-admin-dashboard",
+  "version": "1.0.0",
+  "description": "Administrator Dashboard for PT. Kayaba Indonesia Training Center",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S localhost:3500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazoka-kaka/kyb-career-training.git"
+  },
+  "keywords": [
+    "php",
+    "jquery",
+    "ajax",
+    "mysql"
+  ],
+  "author": "bazoka-kaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazoka-kaka/kyb-career-training/issues"
+  },
+  "homepage": "https://github.com/bazoka-kaka/kyb-career-training#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "^5.2.3",
+    "chartjs": "^0.3.24",
+    "fullcalendar": "^6.1.14",
+    "grep": "^0.1.0",
+    "jquery": "^3.7.0",
+    "lightslider": "^1.1.6",
+    "paginationjs": "^2.6.0",
+    "select2": "^4.1.0-rc.0",
+    "sweetalert2": "^11.12.0"
+  }
+}

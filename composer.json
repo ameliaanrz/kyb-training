@@ -1,0 +1,16 @@
+{
+  "name": "Luthfft/kyb-training-center-admin-dashboard",
+  "description": "An administrator dashboard for managing all PT. Kayaba Indonesia Training Center trainings and participants",
+  "type": "project",
+  "require": {
+    "tecnickcom/tcpdf": "^6.6",
+    "gregwar/captcha": "^1.2",
+    "setasign/fpdf": "^1.8"
+  },
+  "authors": [
+    {
+      "name": "Luthfft",
+      "email": "danishluthfim@gmail.com"
+    }
+  ]
+}
